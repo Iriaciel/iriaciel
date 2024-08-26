@@ -7,4 +7,4 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 alurastartestudante@email.com
 @alurastartestudante
 
-![ ](https://dead-characters.fandom.com/wiki/Allura_(Legendary_Defender))
+![](https://dead-characters.fandom.com/wiki/Allura_(Legendary_Defender))
